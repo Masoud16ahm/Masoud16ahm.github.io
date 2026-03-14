@@ -3,11 +3,11 @@ title: "Plane stress finite element modelling of arbitrary compressible hyperela
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
+excerpt: 'A rigorous general procedure for the incorporation of the plane stress condition for the compressible case (including the nearly incompressible case) is provided here, accompanied by a robust and open source finite element code.'
+date: 2025-07
+venue: 'Acta Mechanica'
 slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://academicpages.github.io/files/paper1.pdf'
+paperurl: 'https://link.springer.com/content/pdf/10.1007/s00707-025-04310-z.pdf'
 bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
