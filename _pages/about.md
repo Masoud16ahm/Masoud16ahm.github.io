@@ -1,12 +1,14 @@
 ---
 permalink: /
-title: "About"
+title: "Home"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
+About
+------
 Masoud is a mechanical engineer experienced in computational mechanics and material science, with applications in civil and biomedical engineering. He is currently a postdoctoral research fellow in the Department of Mathematics at University College London (UCL), having joined in February 2025 after completing his PhD at the University of Glasgow.
 
 As part of the EPSRC-funded OncoEng project, Masoud contributes to developing a computational model for predicting vertebral fracture risk in metastatic bone disease. This framework aims to provide spinal surgeons with critical insights into which vertebrae are most vulnerable to fractures, thereby improving clinical decision-making and patient outcomes.
@@ -14,13 +16,12 @@ As part of the EPSRC-funded OncoEng project, Masoud contributes to developing a 
 Masoud’s research interests focus on applying mathematical and numerical modelling to tackle real-world problems. His research areas span finite element methods, continuum mechanics, biomaterials, composites, and the integration of optimisation algorithms and machine learning in computational mechanics.
 
 Research Interests
-======
+------
 Masoud’s research interests focus on applying mathematical and numerical modelling to tackle real-world problems. His research areas span finite element methods, continuum mechanics, biomaterials, composites, and the integration of optimisation algorithms and machine learning in computational mechanics.
 
+OncoEng
+------
 
-Title
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
 Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
