@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'A rigorous general procedure for the incorporation of the plane stress condition for the compressible case (including the nearly incompressible case) is provided here, accompanied by a robust and open source finite element code.'
-date: 2025-07
+date: 2025-07-01
 venue: 'Acta Mechanica'
 slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://link.springer.com/content/pdf/10.1007/s00707-025-04310-z.pdf'
