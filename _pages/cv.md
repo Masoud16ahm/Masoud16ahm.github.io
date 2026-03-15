@@ -67,22 +67,22 @@ Talks & Presentations
   
 Honours & Awards
 ======
-* 09/2023 Jim Gatheral Scholarship for placement, by James Watt School of Engineering, University of Glasgow.
-* 01/2021 Full College Scholarship for Ph.D., by the College of Science and Engineering, University of Glasgow.
-* 09/2005 Exceptional talent, by NODET (National Organization for Development of Exceptional Talents), High School.
-* 05/2004 Ranked 3rd in NODET national Chess competition.
-* 09/2002 Exceptional talent, by NODET, Middle School.
+* Jim Gatheral Scholarship for placement, by James Watt School of Engineering, University of Glasgow, Sep 2023
+* Full College Scholarship for Ph.D., by the College of Science and Engineering, University of Glasgow, Jan 2021
+* Exceptional talent, by NODET (National Organization for Development of Exceptional Talents), High School, Sep 2005
+* Ranked 3rd in NODET national Chess competition, May 2004
+* Exceptional talent, by NODET, Middle School, Sep 2002
 
 Language Skills
 ======
-English: Full professional proficiency
-Kurdish: Mother Tongue
-Persian: Mother Tongue
-Arabic: Basic
+* English: Full professional proficiency
+* Kurdish: Mother Tongue
+* Persian: Mother Tongue
+* Arabic: Basic
 
 Hobbies & Interest
 ======
 * Sports:
   * Football, Chess, Ping-Pong, Volleyball
-* Others
+* Others:
   * Literature, Cinema, Hiking
