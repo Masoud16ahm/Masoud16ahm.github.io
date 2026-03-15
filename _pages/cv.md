@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Civil Engineering, University of Glasgow, 2021-2024
+* M.S. in Mechanical Engineering, University of Guilan, 2014-2017
+* B.S. in Mechanical Engineering, Razi University, 2009-2013
 
 Work experience
 ======
