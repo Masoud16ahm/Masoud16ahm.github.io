@@ -52,27 +52,34 @@
     <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
     {% endif %}
 
+    {% assign has_links = false %}
+    {% if page.citation or page.paperurl or page.slidesurl or page.bibtexurl %}
+    {% assign has_links = true %}
+    {% endif %}
+    
+    {% if has_links %}
     <p style="font-size: smaller">
-
-    {% unless page.citation == blank %}
+    
+    {% if page.citation %}
     Recommended citation: {{ page.citation }}<br>
-    {% endunless %}
+    {% endif %}
     
-    {% unless page.paperurl == blank %}
+    {% if page.paperurl %}
     <a href="{{ page.paperurl }}">Download Paper</a>
-    {% endunless %}
+    {% endif %}
     
-    {% unless page.slidesurl == blank %}
-    {% unless page.paperurl == blank %} | {% endunless %}
+    {% if page.slidesurl %}
+    {% if page.paperurl %} | {% endif %}
     <a href="{{ page.slidesurl }}">Download Slides</a>
-    {% endunless %}
+    {% endif %}
     
-    {% unless page.bibtexurl == blank %}
-    {% unless page.paperurl == blank and page.slidesurl == blank %} | {% endunless %}
+    {% if page.bibtexurl %}
+    {% if page.paperurl or page.slidesurl %} | {% endif %}
     <a href="{{ page.bibtexurl }}">Download Bibtex</a>
-    {% endunless %}
+    {% endif %}
     
     </p>
+    {% endif %}
 
   </article>
 </div>
