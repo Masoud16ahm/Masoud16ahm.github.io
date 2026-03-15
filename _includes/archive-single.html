@@ -52,30 +52,36 @@
     <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
     {% endif %}
 
-    {% assign has_links = false %}
-    {% if page.citation or page.paperurl or page.slidesurl or page.bibtexurl %}
-    {% assign has_links = true %}
-    {% endif %}
-    
-    {% if has_links %}
-    <p style="font-size: smaller">
-    
-    {% if page.citation %}
-    Recommended citation: {{ page.citation }}<br>
-    {% endif %}
-    
+    {% assign links = "" %}
+
     {% if page.paperurl %}
-    <a href="{{ page.paperurl }}">Download Paper</a>
+      {% capture links %}{{ links }}<a href="{{ page.paperurl }}">PDF</a>{% endcapture %}
     {% endif %}
     
     {% if page.slidesurl %}
-    {% if page.paperurl %} | {% endif %}
-    <a href="{{ page.slidesurl }}">Download Slides</a>
+      {% if links != "" %}
+        {% capture links %}{{ links }} | {% endcapture %}
+      {% endif %}
+      {% capture links %}{{ links }}<a href="{{ page.slidesurl }}">Slides</a>{% endcapture %}
     {% endif %}
     
     {% if page.bibtexurl %}
-    {% if page.paperurl or page.slidesurl %} | {% endif %}
-    <a href="{{ page.bibtexurl }}">Download Bibtex</a>
+      {% if links != "" %}
+        {% capture links %}{{ links }} | {% endcapture %}
+      {% endif %}
+      {% capture links %}{{ links }}<a href="{{ page.bibtexurl }}">BibTeX</a>{% endcapture %}
+    {% endif %}
+    
+    {% if page.citation %}
+    <p style="font-size: smaller">
+    Recommended citation: {{ page.citation }}
+    </p>
+    {% endif %}
+    
+    {% if links != "" %}
+    <p style="font-size: smaller">
+    {{ links }}
+    </p>
     {% endif %}
     
     </p>
