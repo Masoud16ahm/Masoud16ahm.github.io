@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Civil Engineering, University of Glasgow, 2021 - 2024
-  Thesis: Modelling Piezoresistive Behaviour in Finitely Deformed Elastomeric Composites ([download](https://theses.gla.ac.uk/84772/))
+  * Thesis: Modelling Piezoresistive Behaviour in Finitely Deformed Elastomeric Composites ([download](https://theses.gla.ac.uk/84772/))
 * M.Sc. in Mechanical Engineering, University of Guilan, 2014 - 2017
 * B.Sc. in Mechanical Engineering, Razi University, 2009 - 2013
 * Diploma in Mathematics, National Organization for Development of Exceptional Talents ([NODET](https://en.wikipedia.org/wiki/National_Organization_for_Development_of_Exceptional_Talents)), 2002 - 2009
@@ -59,19 +59,30 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Talks & Presentations
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Honours and Awards
+Honours & Awards
 ======
-* text
+* 09/2023 Jim Gatheral Scholarship for placement, by James Watt School of Engineering, University of Glasgow.
+* 01/2021 Full College Scholarship for Ph.D., by the College of Science and Engineering, University of Glasgow.
+* 09/2005 Exceptional talent, by NODET (National Organization for Development of Exceptional Talents), High School.
+* 05/2004 Ranked 3rd in NODET national Chess competition.
+* 09/2002 Exceptional talent, by NODET, Middle School.
 
-Hobbies and Interest
+Language Skills
 ======
-* Sports
-  Football, Chess, Ping-Pong, Volleyball
+English: Full professional proficiency
+Kurdish: Mother Tongue
+Persian: Mother Tongue
+Arabic: Basic
+
+Hobbies & Interest
+======
+* Sports:
+  * Football, Chess, Ping-Pong, Volleyball
 * Others
-  Literature, Cinema, Hiking
+  * Literature, Cinema, Hiking
