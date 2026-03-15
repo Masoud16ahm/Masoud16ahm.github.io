@@ -10,7 +10,7 @@
 locale                   : "en-UK"
 site_theme               : "contrast" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "M Ahmadi"
-title_separator          : "\|"
+title_separator          : "|"
 name                     : &name "Masoud Ahmadi"
 description              : &description "Masoud Ahmadi's personal website"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://masoud16ahm.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
