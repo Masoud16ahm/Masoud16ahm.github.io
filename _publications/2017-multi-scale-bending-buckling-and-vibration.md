@@ -1,0 +1,11 @@
+---
+title: "Multi-scale bending, buckling and vibration analyses of carbon fiber/carbon nanotube-reinforced polymer nanocomposite plates with various shapes"
+collection: publications
+category: manuscripts
+permalink: /publication/2017-multi-scale-bending-buckling-and-vibration
+excerpt: 'Using a finite element-based multi-scale modeling approach, the bending, buckling and free vibration of hybrid polymer matrix composites reinforced by carbon fibers and carbon nanotubes (CF/CNT-RP) are analyzed.'
+date: 2017-09-01
+venue: 'Physica E: Low-Dimensional Systems and Nanostructures'
+paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S1386947717300218'
+---
+Using a finite element-based multi-scale modeling approach, the bending, buckling and free vibration of hybrid polymer matrix composites reinforced by carbon fibers and carbon nanotubes (CF/CNT-RP) are analyzed herein. Thick composite plates with rectangular, circular, annular and elliptical shapes are considered. First, the equivalent material properties of CF/CNT-RP are calculated for different volume fractions of CF and CNT. To accomplish this aim, a two-step procedure is presented through which the coupled effects of nano- and micro-scale are taken into account. In the first step, modeling of dispersion of CNTs into the polymer matrix is done with considering interphase formed by their chemical interaction with the matrix, and the equivalent properties of resulting composite material are determined accordingly. CFs are then dispersed into CNT-RP which is considered a homogenous material in this step. Both distributions of CNTs and CFs are assumed to be random. After computing the equivalent properties of CF/CNT-RP for different volume fractions of its constituents, the bending, buckling and free vibration analyses of plates with different shapes are performed. It is shown that the reinforcement of the polymer matrix with both CF and CNT significantly affects the bending, buckling and free vibration characteristics of plates.

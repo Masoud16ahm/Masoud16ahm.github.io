@@ -1,0 +1,11 @@
+---
+title: "Free and forced vibrations of atomic force microscope piezoelectric cantilevers considering tip-sample nonlinear interactions"
+collection: publications
+category: manuscripts
+permalink: /publication/2019-free-and-forced-vibrations-afm
+excerpt: 'The vibrational behavior of rectangular and V-shaped atomic force microscopy (AFM) microcantilevers with an extended piezoelectric layer using the finite element method is investigated.'
+date: 2019-12-01
+venue: 'Thin-Walled Structures'
+paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0263823119303039'
+---
+The aim of this article is to investigate the vibrational behavior of rectangular and V-shaped atomic force microscopy (AFM) microcantilevers with an extended piezoelectric layer using the finite element method (FEM). Firstly, the results of 3D FEM simulation are compared to the experimental and analytical ones to assess the accuracy of the method. Then, the free and forced vibrations of rectangular and V-shape piezoelectric microcantilevers in the absence and presence of nonlinear interactions between the microcantilever tip and the surface sample are studied. A nonlinear spring is used in the finite element modeling to simulate the nonlinear attraction-repulsion interactions between the tip and the sample. The amplitude of the AFM microcantilever is considered to be comparably small, hence the geometric nonlinearity of the microcantilever is insignificant. In the free vibration part, the resonance frequencies and mode shapes are obtained. In the forced vibration cases, an AC voltage with the resonance frequencies obtained in the free vibration analysis is applied to the piezoelectric layer to operate the microcantilever. The resonance amplitude of the tip of AFM microcantilever is derived accordingly. All simulations are performed for two cases; the first one is a fixed microcantilever at the end and free to move and rotate, and the second one is a microcantilever whose rotational degree of freedom and lateral displacement is tied up with applying a symmetric constraint. So, an important study parameter in this work is the effect of torsional modes on the vibrational behavior of AFM piezoelectric microcantilevers.

@@ -1,0 +1,11 @@
+---
+title: "Micromechanical analysis of elastic modulus of carbon nanotube-aluminum nanocomposites with random microstructures"
+collection: publications
+category: manuscripts
+permalink: /publication/2019-micromechanical-analysis-of-elastic-modulus
+excerpt: 'The effect of Al4C3 interphase on the elastic modulus of Al nanocomposites reinforced with randomly distributed CNTs is investigated using a numerical micromechanical model based on the finite element method (FEM).'
+date: 2019-03-30
+venue: 'Journal of Alloys and Compounds'
+paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S092583881834458X'
+---
+The formation of Al4C3 interphase in carbon nanotube (CNT)-reinforced aluminum (Al) nanocomposites is a critical issue which must be well-known to more realistic estimations of mechanical behavior of such materials. In this work, the effect of Al4C3 interphase on the elastic modulus of Al nanocomposites reinforced with randomly distributed CNTs is investigated using a numerical micromechanical model based on the finite element method (FEM). Moreover, the influences of the CNT volume fraction and diameter on the elastic modulus of Al nanocomposites are explored. The results reveal that Al4C3 interphase significantly affects the elastic modulus of Al nanocomposites especially as the CNT diameter decreases. It can be observed that with increasing interphase thickness, the elastic modulus of the nanocomposite increases. The applicability of the presented model in predicting the elastic modulus of CNT-reinforced Al nanocomposites is investigated by comparing the results of the FEM with those of experiment available in the literature. Furthermore, the results of the FEM with and without Al4C3 interphase for aligned continuous and discontinuous CNT-reinforced Al nanocomposites are presented. It is found that the effect of the interphase on the elastic modulus of nanocomposites reinforced with continuous CNT is more important than that of nanocomposites reinforced with discontinuous CNT.
