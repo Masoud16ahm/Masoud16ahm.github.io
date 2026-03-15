@@ -9,7 +9,7 @@
 
 main:
   - title: "Research"
-    url: /year-archive/
+    url: /research/
 
   - title: "Publications"
     url: /publications/
@@ -27,7 +27,4 @@ main:
   #   url: /cv-json/
 
   - title: "Contact"
-    url: /teaching/
-  
-  # - title: "Guide"
-  #   url: /markdown/
+    url: /contact/
