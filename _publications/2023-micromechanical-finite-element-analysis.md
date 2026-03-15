@@ -1,0 +1,11 @@
+---
+title: "Micromechanical finite element analysis of Young’s modulus, yield strength and thermal expansion coefficient of nano-sized ceramic particle/metal matrix nanocomposites"
+collection: publications
+category: manuscripts
+permalink: /publication/2023-micromechanical-finite-element-analysis
+excerpt: 'The micromechanical finite element method is used to investigate Young’s modulus, yield strength and coefficient of thermal expansion (CTE) of nano-sized silicon carbide (SiC) particle/aluminum (Al) nano-composites.'
+date: 2023-09-01
+venue: 'Journal of the Brazilian Society of Mechanical Sciences and Engineering'
+paperurl: 'https://link.springer.com/article/10.1007/s40430-023-04385-6'
+---
+The micromechanical finite element method (FEM) is used to investigate Young’s modulus, yield strength and coefficient of thermal expansion (CTE) of nano-sized silicon carbide (SiC) particle/aluminum (Al) nano-composites (NCs). For this purpose, a 3-dimensional representative volume element containing randomly dispersed SiC nanoparticles is constructed with the precondition of satisfying the periodicity criterion. The effect of the Al4C3 interfacial product formed due to the chemical interaction between the ceramic nanoparticle and metal matrix is numerically evaluated on the NC properties. The results reveal that the mechanical and thermal expanding properties of Al-based composites are improved by the addition of SiC nanoparticles. The increase of uniformly dispersed SiC percentage leads to an increase in Young’s modulus and yield stress and a decrease in the CTE of the Al NC. It is observed that the Al4C3 interfacial product would be beneficial to improve the effective properties of SiC/Al NCs. The higher the interphase thickness is, the better the NC property improvement. In the presence of an interfacial product, the mechanical and thermal expanding properties can be improved by the reduction in the nanoparticle diameter. The reinforcement ratio of Al4C3 turns to be more effective as the SiC diameter decreases. Predictions of the micromechanical FEM are compared with the results of analytical methods and experimental measurements to verify its accuracy.
