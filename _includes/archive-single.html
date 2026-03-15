@@ -54,23 +54,23 @@
 
     <p style="font-size: smaller">
 
-    {% if page.citation and page.citation != "" %}
+    {% unless page.citation == blank %}
     Recommended citation: {{ page.citation }}<br>
-    {% endif %}
+    {% endunless %}
     
-    {% if page.paperurl %}
+    {% unless page.paperurl == blank %}
     <a href="{{ page.paperurl }}">Download Paper</a>
-    {% endif %}
+    {% endunless %}
     
-    {% if page.slidesurl %}
-    {% if page.paperurl %} | {% endif %}
+    {% unless page.slidesurl == blank %}
+    {% unless page.paperurl == blank %} | {% endunless %}
     <a href="{{ page.slidesurl }}">Download Slides</a>
-    {% endif %}
+    {% endunless %}
     
-    {% if page.bibtexurl %}
-    {% if page.paperurl or page.slidesurl %} | {% endif %}
+    {% unless page.bibtexurl == blank %}
+    {% unless page.paperurl == blank and page.slidesurl == blank %} | {% endunless %}
     <a href="{{ page.bibtexurl }}">Download Bibtex</a>
-    {% endif %}
+    {% endunless %}
     
     </p>
 
