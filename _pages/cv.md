@@ -41,7 +41,6 @@ Research Areas
 * Multiscale Modelling
 * Biomechanics
 * Composite Materials
-* Computational Mechanics
 
 Technical Skills
 ======
