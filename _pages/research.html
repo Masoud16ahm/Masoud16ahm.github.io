@@ -3,17 +3,28 @@ layout: archive
 permalink: /research/
 title: "Research"
 author_profile: false
-redirect_from:
-  - /wordpress/blog-posts/
 ---
 
-{% include base_path %}
-{% capture written_year %}'None'{% endcapture %}
-{% for post in site.posts %}
-  {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
-  {% if year != written_year %}
-    <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
-    {% capture written_year %}{{ year }}{% endcapture %}
-  {% endif %}
-  {% include archive-single.html %}
-{% endfor %}
+My research focuses on the development of computational models for understanding the mechanical behaviour and failure of complex materials and structures. I combine continuum mechanics, numerical methods, and modern data-driven techniques to build predictive models that address challenges in engineering and biomedical systems.
+
+
+
+Computational Mechanics and Finite Element Modelling
+---
+
+A major part of my research involves the development and application of finite element methods for modelling nonlinear material behaviour and complex multiphysics systems. My work includes the implementation of constitutive models, large deformation mechanics, and numerical frameworks for solving challenging problems in solid mechanics.
+
+
+Fracture Mechanics and Failure Modelling
+---
+I am particularly interested in the computational modelling of fracture and failure processes in materials and structures. My work includes phase-field approaches to fracture, modelling of crack initiation and propagation, and failure mechanisms in engineering materials. Current interests include the modelling of fracture processes in energy materials such as lithium-ion batteries.
+
+
+Biomechanics and Computational Modelling of Bone
+---
+As part of the OncoEng project, I develop computational models to assess vertebral fracture risk in patients with metastatic bone disease. This research integrates medical imaging, finite element modelling, and biomechanical analysis to predict the structural competence of vertebrae affected by cancer and support clinical decision-making.
+
+Probabilistic and Data-Driven Modelling
+---
+A growing part of my research explores the integration of statistical and machine learning methods with physics-based models. This includes uncertainty quantification, Bayesian inference, and the use of data-driven approaches to improve predictive modelling in complex engineering systems.
+
