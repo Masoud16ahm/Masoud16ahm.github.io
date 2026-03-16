@@ -84,9 +84,10 @@ Teaching
     * ENG2082: Mechanics of Structures 2
     * ENG3035: Design and Manufacture 3
 * Independent Tutor (Jun 2017 – Dec 2019)
-  * Statics
-  * Mechanics of Materials
-  * ABAQUS
+  * Online and in person
+    * Statics
+    * Mechanics of Materials
+    * ABAQUS
 * Teaching Assistant (Jan 2015 – Sep 2017)
   * Faculty of Mechanical Engineering, University of Guilan
     * Finite Element Method using ABAQUS
