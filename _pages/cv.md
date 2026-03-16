@@ -102,3 +102,14 @@ Honours & Awards
 * Exceptional talent, by NODET (National Organisation for Development of Exceptional Talents), High School (Sep 2005)
 * Ranked 3rd in NODET national Chess competition (May 2004)
 * Exceptional talent, by NODET, Middle School (Sep 2002)
+
+Academic Service
+======
+* Peer reviewer for several international journals in computational mechanics, materials science, and applied mathematics
+  * European Journal of Mechanics/A Solids
+  * Journal of Power Sources
+  * Polymer composites
+  * Mechanics of Advanced Materials and Structures
+  * International Journal of Minerals, Metallurgy and Materials
+  * Proceedings of the Institution of Mechanical Engineers, Part C
+  * Nanotechnology Reviews 
