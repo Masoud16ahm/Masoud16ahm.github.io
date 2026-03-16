@@ -13,9 +13,11 @@ I believe that impactful research emerges from collaboration and the open exchan
 masoud.ahmadi@ucl.ac.uk
 
 -----
-Department of Mathematics \n
-University College London, 25 Gordon Street \n
-London WC1H  0AY, United Kingdom \n
+Department of Mathematics
+
+University College London, 25 Gordon Street
+
+London WC1H  0AY, United Kingdom
 
 Tel: +(44) 020 7679 3632,
 Ext: 33632
