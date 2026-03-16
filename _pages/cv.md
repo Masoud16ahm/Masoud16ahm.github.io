@@ -75,17 +75,3 @@ Honours & Awards
 * Exceptional talent, by NODET (National Organization for Development of Exceptional Talents), High School, Sep 2005
 * Ranked 3rd in NODET national Chess competition, May 2004
 * Exceptional talent, by NODET, Middle School, Sep 2002
-
-Language Skills
-======
-* English: Full professional proficiency
-* Kurdish: Mother Tongue
-* Persian: Mother Tongue
-* Arabic: Basic
-
-Hobbies & Interest
-======
-* Sports:
-  * Football, Chess, Ping-Pong, Volleyball
-* Others:
-  * Literature, Cinema, Hiking
