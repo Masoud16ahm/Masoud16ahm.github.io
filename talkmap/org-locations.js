@@ -15,8 +15,8 @@ var addressPoints = [
     -8.6103497
   ],
   [
-    "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
-    37.8708393,
-    -122.272863
+    "Piezoresistive response of elastomeric composites under large deformations<br />Imperial-UCL Numerics Seminar; London, UK",
+    51.5074456,
+    -0.1277653
   ]
 ];
