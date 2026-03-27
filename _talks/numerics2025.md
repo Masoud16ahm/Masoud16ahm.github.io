@@ -1,7 +1,7 @@
 ---
 title: "Piezoresistive response of elastomeric composites under large deformations"
 collection: talks
-type: "Tutorial"
+type: "Talk"
 permalink: /talks/numerics2025
 venue: "Imperial-UCL Numerics Seminar"
 date: 2025-02-12
