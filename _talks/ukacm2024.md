@@ -1,9 +1,9 @@
 ---
 title: "Finite Element Modelling of Incompressible Hyperelastic Materials: 2D/3D/Plane-Stress/Plane-Strain"
 collection: talks
-type: "Conference proceedings talk"
+type: "Talk"
 permalink: /talks/ukacm2024
-venue: "UKacm(Association for Computational Mechanics Conference) 2024"
+venue: "UK Association for Computational Mechanics (UKacm) Conference 2024"
 date: 2024-04-11
 location: "Durham, UK"
 ---
