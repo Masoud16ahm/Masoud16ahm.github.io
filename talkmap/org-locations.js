@@ -10,7 +10,7 @@ var addressPoints = [
     -0.1277653
   ],
   [
-    "Finite Element Modelling of Incompressible Hyperelastic Materials: 2D/3D/Plane-Stress/Plane-Strain<br />UK Association for Computational Mechanics (UKacm) Conference 2024; Durham, UK",
+    "Finite Element Modelling of Incompressible Hyperelastic Materials: 2D/3D/Plane-Stress/Plane-Strain<br />UK Association for Computational Mechanics (UKacm) 2024 Conference, Durham University; Durham, UK",
     54.666667,
     -1.75
   ],
