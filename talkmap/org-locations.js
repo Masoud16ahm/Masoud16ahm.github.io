@@ -1,6 +1,6 @@
 var addressPoints = [
   [
-    "Electrical conductivity of CNT-reinforced composites undergoing large deformation<br />UKacm 2023 Conference, The University of Warwick; Coventry, UK",
+    "Electrical conductivity of CNT-reinforced composites undergoing large deformation<br />UK Association for Computational Mechanics (UKacm) 2023 Conference, The University of Warwick; Coventry, UK",
     52.4081812,
     -1.510477
   ],
