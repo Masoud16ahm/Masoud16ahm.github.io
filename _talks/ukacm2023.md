@@ -3,7 +3,7 @@ title: "Electrical conductivity of CNT-reinforced composites undergoing large de
 collection: talks
 type: "Talk"
 permalink: /talks/ukacm2023
-venue: "UKacm 2023 Conference, The University of Warwick"
+venue: "UK Association for Computational Mechanics (UKacm) 2023 Conference, The University of Warwick"
 date: 2023-04-20
 location: "Coventry, UK"
 ---
