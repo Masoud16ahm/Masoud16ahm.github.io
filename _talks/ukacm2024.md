@@ -3,7 +3,7 @@ title: "Finite Element Modelling of Incompressible Hyperelastic Materials: 2D/3D
 collection: talks
 type: "Talk"
 permalink: /talks/ukacm2024
-venue: "UK Association for Computational Mechanics (UKacm) Conference 2024"
+venue: "UK Association for Computational Mechanics (UKacm) 2024 Conference, Durham University"
 date: 2024-04-11
 location: "Durham, UK"
 ---
