@@ -1,7 +1,7 @@
 ---
 title: "FE simulations on a nearly-incompressible hyperelastic block"
 excerpt: "Short description<br/>
-<video width='800' controls>
+<video width='600' controls>
   <source src='/files/deformation_comparison.mp4' type='video/mp4'>
 </video>"
 collection: portfolio
