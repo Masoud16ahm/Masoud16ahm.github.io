@@ -1,6 +1,6 @@
 ---
 title: "FE simulations on a nearly-incompressible hashtag#hyperelastic block"
-excerpt: "Short description of portfolio item number 1<br/><img src='/files/deformation_comparison.mp4'>"
+excerpt: "Short description of portfolio item number 1<br/><video src='/files/deformation_comparison.mp4'>"
 collection: portfolio
 ---
 
